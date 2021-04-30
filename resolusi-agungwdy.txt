@@ -3,4 +3,4 @@ Resolusi agungwdy (mei)
 1. Selesaikan semua tugas.
 2. Selesaikan semua tantangan codewars dan freeCodeCamp.
 3. Membuat website yang bagus dengan berbagai API.
-4. Sudah mempelajari node.js dan mengimplementasikannya.
+4. Sudah mempelajari node.js dan diimplementasikan.
