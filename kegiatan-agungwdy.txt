@@ -6,3 +6,4 @@ Kegiatan agungwdy
 4. Buat portofolio dan upload di netlify.
 5. Buat website dengan foodAPI dan upload di netlify untuk keperluan tugas, dengan template free.
 6. Selesaikan tugas sekolah yang belum dikerjakan.
+7. Fixing akun infinityfree.
