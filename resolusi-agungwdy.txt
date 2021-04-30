@@ -1,0 +1,7 @@
+Resolusi agungwdy
+
+1. Selesaikan web responsive course freeCodeCamp.
+2. Buat akun di codewars dan latihan logic disana.
+3. Mengikuti tutorial github dan git di wpu.
+4. Buat portofolio dan upload di netlify.
+5. Buat website dengan foodAPI dan upload di netlify untuk keperluan tugas, dengan template free.
